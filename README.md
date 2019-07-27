@@ -4,5 +4,5 @@
   <a href="https://github.com/insung3511/nefus-gamepro"> [Nefus GameProject] </a> <br/>
   - 네퓨즈 코드업 숙제들 </br>
   <a href="https://github.com/insung3511/nefus-codeup"> [Nefus CodeUp HomeWorks] </a> <br/>
-  - 기타 추가 숙제들 <br/>
+  - 기타 추가 숙제들 (리눅스 명령어 찾기, 아두이노 조사하기) <br/>
   <a href="/ExtraHW"> [Here] </a> <br/>
