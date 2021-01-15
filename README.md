@@ -14,5 +14,7 @@
 온라인 수업이 진행이 되면서 2학년 동아리 숙제들...🥴
   - 네퓨즈 18기 코드업 숙제 <br>
   <a href="https://github.com/insung3511/nefus-arduino-hw">[C언어 프로젝트 숙제]</a> <br>
-  - <a href="">#</a>
-  - <a href="">#</a>
+  - 네퓨즈 18기 아두이노 숙제 <br>
+    <a href="https://github.com/insung3511/nefus-arduino-hw">[Nefus 17th Arduino Homework while Online Class]</a>
+  - 네퓨즈 파이썬 숙제 <br>
+    <a href="https://github.com/insung3511/nefus-python">[Nefus Python Codeup Homework]</a>
