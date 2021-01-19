@@ -1,5 +1,5 @@
 # nefus-homeworks
-네퓨즈에서 진행했던 동아리 숙제들을 모아두었습니다.
+네퓨즈에서 진행했던 동아리 자료 및 숙제들을 모아두었습니다.
 
 ## 2019년 (1학년)
 네퓨즈 숙제들을 한꺼번에 모아둔 저장소 ✨ </br>
@@ -18,3 +18,5 @@
     <a href="https://github.com/insung3511/nefus-arduino-hw">[Nefus 17th Arduino Homework while Online Class]</a>
   - 네퓨즈 파이썬 숙제 <br>
     <a href="https://github.com/insung3511/nefus-python">[Nefus Python Codeup Homework]</a>
+  - 오붕시붕이 수업 자료들 <br>
+    <a href="https://github.com/insung3511/nemotion-opencv-class">[오붕시붕이 수업자료들]</a>
