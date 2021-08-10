@@ -22,7 +22,7 @@
     <a href="https://github.com/insung3511/nemotion-opencv-class">[오붕시붕이 수업자료들]</a>
 
 ## 2021년 (3학년)
-즐거운 고3의 개인 프로젝트에 대한 보고서와 발표자료...
+즐거운 고3의 개인 프로젝트에 대한 보고서와 발표자료...🏋🏽‍♀️
   - YOLO 와 HOG 기술에 대한 비교와 보행자 인식에 대한 작동원리 
-    - <a href="https://github.com/insung3511/yolo-human">실행 코드</a>
-    - <a href="/ExtraHW/YOLO_vs_Hog">발표 자료</a>
+    - <a href="https://github.com/insung3511/yolo-human">[실행 코드]</a>
+    - <a href="/ExtraHW/YOLO_vs_Hog">[발표 자료]</a>
